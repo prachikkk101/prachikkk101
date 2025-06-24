@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! This side Prachi Khandelwal and I'm a student of Vellore Institute of Technology (Chennai).</h2>
+<h2 align="left">Hi 👋! This side Prachi Khandelwal, a Computer Science and Engineering student at Vellore Institute of Technology(Chennai).</h2>
+<p align="left">Passionate about coding, problem-solving, and turning ideas into impactful projects 🚀.</p>
+
 
 ###
 
@@ -30,9 +32,6 @@
 ###
 
 <div align="left">
-  <a href="mailto:khandelwalprachi42@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
   <a href="https://www.linkedin.com/in/prachi-khandelwal-035518320" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
