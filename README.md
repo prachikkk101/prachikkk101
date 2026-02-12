@@ -39,6 +39,8 @@
   <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/previews/013/899/429/non_2x/machine-learning-icon-artificial-intelligence-smart-machine-logo-template-illustration-free-vector.jpg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://web.dev/images/social-wide.jpg" height="30" alt="javascript logo" />
 </div>
 
 ###
