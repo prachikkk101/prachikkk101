@@ -1,75 +1,88 @@
-<h1 align="center">Hey 👋 I'm Prachi Khandelwal</h1>
-<h3 align="center">💻 CSE Student @ VIT Chennai | 🤖 AI + ML Explorer | 🚀 Future Tech Builder</h3>
+<h1 align="center">✨ Heyyy I'm Prachi Khandelwal ✨</h1>
+<h3 align="center">💖 CSE @ VIT Chennai | 🤖 AI Dreamer | 🚀 Future ML Engineer</h3>
 
 <p align="center">
-I don’t just write code… I build smart systems that think.<br>
-Passionate about AI, problem-solving, and creating tech that actually helps people.
+Building cute interfaces + intelligent systems 💕<br>
+Turning coffee ☕ into code & ideas into AI magic ✨
 </p>
 
 ---
 
-## 📊 GitHub Power Stats
+## 💕 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachikkk101&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachikkk101&layout=compact&langs_count=6&theme=radical" height="160"/>
-</div>
+🎀 Passionate about Artificial Intelligence & Deep Learning  
+🧠 Exploring Machine Learning with PyTorch  
+💻 Frontend + Backend Developer  
+🚀 Building AI-powered Ecommerce Systems  
+🌸 Love clean UI + smart systems  
 
 ---
 
-## 🧠 Tech Arsenal
+## 📊 GitHub Princess Stats 👑
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prachikkk101&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prachikkk101&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## 🤖 Current Focus
+## 🤖 AI & Tech Stack 💕
 
-✨ AI-Powered Ecommerce Systems  
-✨ Machine Learning & Deep Learning (PyTorch)  
-✨ Smart UI/UX + Frontend Engineering  
-✨ Backend Development & Databases  
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌸 Currently Learning
+
+✨ Advanced Deep Learning  
+✨ Model Optimization  
+✨ AI Product Building  
+✨ Backend Architecture  
+
+---
+
+## 🌐 Let’s Connect 💌
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/prachi-khandelwal-035518320">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/prachu1234/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFB6C1?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Cute Contribution Snake 💚
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/prachikkk101/prachikkk101/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/prachikkk101/prachikkk101/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
 
-### ⚡ Fun Fact
-I love building projects where **AI acts like a smart assistant, not just code.**
+<p align="center">
+✨ “She believed she could, so she trained the model.” 🤖💕
+</p>
 
 
