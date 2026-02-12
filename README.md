@@ -1,16 +1,19 @@
 <h1 align="center">✨ Heyyy I'm Prachi Khandelwal ✨</h1>
-<h3 align="center">💖 CSE @ VIT Chennai | 🤖 AI Dreamer | 🚀 Future ML Engineer</h3>
+<h3 align="center">💖 CSE @ VIT Chennai | 🤖 AI Dreamer | 🚀 Tech</h3>
 
 <p align="center">
 Building cute interfaces + intelligent systems 💕<br>
 Turning coffee ☕ into code & ideas into AI magic ✨
 </p>
 
+
+
 <p align="center">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120"/>
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="120"/>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+  <img src="https://i.pinimg.com/1200x/26/18/3b/26183b9407c07ef231cb118ff9c6e4de.jpg" width="220"/>
 </p>
+
+
+
 
 ---
 
@@ -20,11 +23,11 @@ Turning coffee ☕ into code & ideas into AI magic ✨
 🧠 Exploring Machine Learning with PyTorch  
 💻 Frontend + Backend Developer  
 🚀 Building AI-powered Ecommerce Systems  
-🌸 Love clean UI + smart systems  
+  
 
 ---
 
-## 📊 GitHub Princess Stats 👑
+## 📊 GitHub Stats 👑
 
 <div align="center">
 
@@ -49,6 +52,7 @@ Turning coffee ☕ into code & ideas into AI magic ✨
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://i.pinimg.com/1200x/a9/5a/ad/a95aadde4325065401dc6942ea5dad90.jpg" height="45"/>
 
 </div>
 
@@ -65,15 +69,13 @@ Turning coffee ☕ into code & ideas into AI magic ✨
 
 ## 🌐 Let’s Connect 💌
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/prachi-khandelwal-035518320">
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/prachu1234/">
-<img src="https://img.shields.io/badge/LeetCode-FFB6C1?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+
 
 </div>
 
