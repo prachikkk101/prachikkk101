@@ -6,6 +6,12 @@ Building cute interfaces + intelligent systems 💕<br>
 Turning coffee ☕ into code & ideas into AI magic ✨
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+</p>
+
 ---
 
 ## 💕 About Me
@@ -82,7 +88,12 @@ Turning coffee ☕ into code & ideas into AI magic ✨
 ---
 
 <p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180"/>
+</p>
+
+<p align="center">
 ✨ “She believed she could, so she trained the model.” 🤖💕
 </p>
+
 
 
