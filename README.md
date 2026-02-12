@@ -5,9 +5,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachikkk101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prachikkk101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prachikkk101&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachikkk101&layout=compact&langs_count=5&theme=github_dark" height="150" alt="languages graph" />
 </div>
+
 
 ###
 
@@ -25,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12SMucV1yoXW-nEEb70ZXugC-RC7VM43xFg&s" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12SMucV1yoXW-nEEb70ZXugC-RC7VM43xFg&s" height="30" alt="javascript logo" />
   <img width="12" />
@@ -51,9 +51,6 @@
   </a>
   <a href="https://leetcode.com/prachu1234/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="leetcode logo" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/khandelwalprach3" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" alt="hackerrank logo" />
   </a>
 </div>
 
