@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12SMucV1yoXW-nEEb70ZXugC-RC7VM43xFg&s" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://web.dev/images/social-wide.jpg" height="30" alt="javascript logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12SMucV1yoXW-nEEb70ZXugC-RC7VM43xFg&s" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cz.mouser.com/blog/Portals/11/Dongang_Machine%20Learning_Theme%20Image-min_1.jpg" height="30" alt="javascript logo" />
   <img width="12" />
