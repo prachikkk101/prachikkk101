@@ -29,6 +29,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://web.dev/images/social-wide.jpg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cz.mouser.com/blog/Portals/11/Dongang_Machine%20Learning_Theme%20Image-min_1.jpg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/1*4br4WmxNo0jkcsY796jGDQ.jpeg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://static.vecteezy.com/system/resources/previews/013/899/429/non_2x/machine-learning-icon-artificial-intelligence-smart-machine-logo-template-illustration-free-vector.jpg" height="30" alt="javascript logo" />
 </div>
 
 ###
